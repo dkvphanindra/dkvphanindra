@@ -1,39 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>README</title>
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            margin: 40px;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        h1, h2 {
-            color: #2c3e50;
-        }
-        hr {
-            border: none;
-            height: 1px;
-            background: #ccc;
-        }
-        ul {
-            line-height: 1.6;
-        }
-        .section {
-            background: #ffffff;
-            padding: 20px;
-            margin-bottom: 20px;
-            border-radius: 8px;
-        }
-        .highlight {
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-
     <h1>📘 Project / Profile README</h1>
     <p><strong>Name:</strong> Dimmiti Kushvanth Venkata Phanindra</p>
     <p><strong>Degree:</strong> B.Tech – Information Technology</p>
