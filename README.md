@@ -187,35 +187,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dkvphanindra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dkvphanindra&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkvphanindra&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dkvphanindra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dkvphanindra&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## ✨ Quote I Believe In
 
 <p align="center">
